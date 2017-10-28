@@ -1,8 +1,12 @@
 {
   "name": "eslint-plugin-react-primitives",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Eslint rules for using React Primitives",
-  "keywords": ["eslint", "eslintplugin", "eslint-plugin"],
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
   "author": "Jon Gold",
   "main": "lib/index.js",
   "scripts": {
