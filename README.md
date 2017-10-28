@@ -6,6 +6,8 @@ TODO:
 - [ ] add badges
 - [ ] publish
 
+[![npm](https://img.shields.io/npm/v/eslint-plugin-react-primitives.svg)](https://www.npmjs.com/package/eslint-plugin-react-primitives)
+[![Travis](https://travis-ci.org/jongold/eslint-plugin-react-primitives.svg?branch=master)](https://travis-ci.org/jongold/eslint-plugin-react-primitives)
 
 # eslint-plugin-react-primitives
 
