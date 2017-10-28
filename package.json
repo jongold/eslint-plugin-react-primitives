@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-react-primitives",
+  "version": "0.0.0",
+  "description": "Eslint rules for using React Primitives",
+  "keywords": ["eslint", "eslintplugin", "eslint-plugin"],
+  "author": "Jon Gold",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
