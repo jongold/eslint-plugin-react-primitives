@@ -1,10 +1,4 @@
-TODO:
-- [ ] stop it from working on comment
-- [ ] write docs/rules/no-react-native-imports.md
-- [ ] write README.md
-- [ ] add travis config
-- [ ] add badges
-- [ ] publish
+TODO: write docs
 
 [![npm](https://img.shields.io/npm/v/eslint-plugin-react-primitives.svg)](https://www.npmjs.com/package/eslint-plugin-react-primitives)
 [![Travis](https://travis-ci.org/jongold/eslint-plugin-react-primitives.svg?branch=master)](https://travis-ci.org/jongold/eslint-plugin-react-primitives)
